@@ -1,0 +1,4 @@
+classes= 23
+train = ./train.txt
+names = ./custom.names
+backup = ./backup

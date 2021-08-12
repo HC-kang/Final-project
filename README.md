@@ -1,3 +1,10 @@
 # Final-project
 
-branch user로 작성할 것
+=======
+1. data
+
+2. model
+
+3. front-end
+
+4. back-end
